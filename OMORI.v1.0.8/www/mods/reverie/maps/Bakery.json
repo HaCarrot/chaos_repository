@@ -1,0 +1,14 @@
+{ "columns":5,
+ "image":"Bakery.png",
+ "imageheight":283,
+ "imagewidth":170,
+ "margin":0,
+ "name":"Bakery",
+ "spacing":0,
+ "tilecount":40,
+ "tiledversion":"1.8.4",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

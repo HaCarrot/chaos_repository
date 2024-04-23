@@ -1,0 +1,185 @@
+[     0.026] Encryption: Extracting asset key
+[     0.110] Encryption: Extracting decrypter from rpg_core.js
+[     0.216] -=-=-= Early loader =-=-=-
+[     0.442] Loading configuration
+[     0.473] Inspecting mods
+[     0.504] 2 entries in mods/
+[     0.553] > Now inspecting: oneloader
+[     0.605] | Name: OneLoader assistant
+[     0.605] | ID: oneloader
+[     0.605] | Version: 1.4
+[     0.605] | Description: A helper mod for OneLoader
+[     0.715] > Now inspecting: reverie
+[     0.778] | Name: REVERIE
+[     0.779] | ID: reverie
+[     0.779] | Version: 2.5.0.5
+[     0.779] | Description: REVERIE: CHAPTER 2
+[     0.795] reverie + maps + maps/FallenWorld.world | FallenWorld.world skipped, unknown extension
+[     0.795] reverie + maps + maps/MetroB1.world | MetroB1.world skipped, unknown extension
+[     0.796] reverie + maps + maps/rv_City.world | rv_City.world skipped, unknown extension
+[     0.799] Checking for package.json changes
+[     0.803] Early loading complete, starting loader stage 2
+[     0.804] Starting compatiblity check block
+[     0.804] Performing satisfaction and skip check building for oneloader
+[     0.804] Performing satisfaction and skip check building for reverie
+[     0.804] Satisfaction: [["oneloader",["OneLoader assistant"]],["modloader",["OneLoader assistant"]],["reverie",["REVERIE"]]]
+[     0.804] SkipChecks: []
+[     0.804] Starting real building of exclusion and inclusion maps. Mod: oneloader
+[     0.804] Skips for oneloader are: []
+[     0.804] Starting real building of exclusion and inclusion maps. Mod: reverie
+[     0.804] Skips for reverie are: []
+[     0.804] Exclusions: []
+[     0.804] Rquirements: []
+[     0.806] Exclusion failures: []
+[     0.806] Requirement failures: []
+[     0.806] Ending compatiblity check block
+[     1.360] Normalizing injection paths
+[     1.362] Looking for conflicted files
+[     1.364] Building overlayFS image
+[     1.375] Applying delta patches
+[     1.375] Delta patching: data/actors.kel
+[     1.375] | Reading base from the game
+[     1.461] | Applying patches with method: json
+[     1.462] | | reverie
+[     1.466] Delta patching: data/animations.kel
+[     1.467] | Reading base from the game
+[     1.581] | Applying patches with method: json
+[     1.607] | | reverie
+[     1.679] Delta patching: data/armors.kel
+[     1.679] | Reading base from the game
+[     1.758] | Applying patches with method: json
+[     1.759] | | reverie
+[     1.762] Delta patching: data/atlas.pluto
+[     1.762] | Reading base from the game
+[     1.872] | Applying patches with method: yaml
+[     1.966] | | reverie
+[     2.039] Delta patching: data/classes.kel
+[     2.039] | Reading base from the game
+[     2.104] | Applying patches with method: json
+[     2.105] | | reverie
+[     2.108] Delta patching: data/commonevents.kel
+[     2.108] | Reading base from the game
+[     2.303] | Applying patches with method: json
+[     2.432] | | reverie
+[     2.694] Delta patching: data/enemies.kel
+[     2.694] | Reading base from the game
+[     2.846] | Applying patches with method: json
+[     2.881] | | reverie
+[     3.025] Delta patching: data/items.kel
+[     3.025] | Reading base from the game
+[     3.127] | Applying patches with method: json
+[     3.163] | | reverie
+[     3.196] Delta patching: data/map002.kel
+[     3.196] | Reading base from the game
+[     3.308] | Applying patches with method: json
+[     3.317] | | reverie
+[     3.345] Delta patching: data/map003.kel
+[     3.346] | Reading base from the game
+[     3.421] | Applying patches with method: json
+[     3.436] | | reverie
+[     3.473] Delta patching: data/map999.kel
+[     3.473] | Reading base from the game
+[     3.532] | Applying patches with method: json
+[     3.533] | | reverie
+[     3.539] Delta patching: data/mapinfos.kel
+[     3.539] | Reading base from the game
+[     3.566] | Applying patches with method: json
+[     3.568] | | reverie
+[     3.573] Delta patching: data/skills.kel
+[     3.573] | Reading base from the game
+[     3.647] | Applying patches with method: json
+[     3.674] | | reverie
+[     3.720] Delta patching: data/states.kel
+[     3.721] | Reading base from the game
+[     3.810] | Applying patches with method: json
+[     3.813] | | reverie
+[     3.824] Delta patching: data/system.kel
+[     3.824] | Reading base from the game
+[     3.861] | Applying patches with method: json
+[     3.861] | | reverie
+[     3.867] Delta patching: data/troops.kel
+[     3.867] | Reading base from the game
+[     3.957] | Applying patches with method: json
+[     3.990] | | reverie
+[     4.040] Delta patching: data/weapons.kel
+[     4.040] | Reading base from the game
+[     4.079] | Applying patches with method: json
+[     4.081] | | reverie
+[     4.084] Delta patching: languages/en/system.hero
+[     4.084] | Reading base from the game
+[     4.182] | Applying patches with method: yaml
+[     4.206] | | reverie
+[     4.241] Delta patching: maps/fa_outside_objects.aubrey
+[     4.241] | Reading base from the game
+[     4.339] | Applying patches with method: json
+[     4.339] | | reverie
+[     4.340] Delta patching: maps/terraintiles.aubrey
+[     4.340] | Reading base from the game
+[     4.417] | Applying patches with method: json
+[     4.417] | | reverie
+[     4.422] Delta patching: maps/map00_template_32x32.aubrey
+[     4.422] | Reading base from the game
+[     4.477] | Applying patches with method: json
+[     4.479] | | reverie
+[     5.150] Creating GOMORI API backwards compatibility
+[     5.151] Looking for plugin conflicts...
+[     5.151] Installing VFS handler (1/2) [Chrome DevTools mode]
+[     5.152] Gathering chrome devtools remote debugging candidates
+[     5.166] [DEVTOOLS] Successfully attached!
+[     5.267] Installing VFS handler (2/2) [node.js]
+[     5.267] Starting game
+[     6.251] Patching $plugins
+[     6.251] [PLUGIN_LOADER] Injected 11681057f7d4cc2d54f0dbaa0824a6fc4d0b292515ef61e78e4fe7684fa5d4c3
+[     6.251] [PLUGIN_LOADER] Injected 37f5dd012b4d479efd8f94bb1324027849b9e137561a3e1b3a58580abfcd9ac3
+[     6.251] [PLUGIN_LOADER] Injected 0c9aa3f045cf1971f214db31605b0b2b8df07fd17f5322953f16d3282da6e0fc
+[     6.251] [PLUGIN_LOADER] Injected state_damage_face
+[     6.251] [PLUGIN_LOADER] Injected dgt_yamlerrordisambiguator
+[     6.251] [PLUGIN_LOADER] Injected yep_hitaccuracy
+[     6.251] [PLUGIN_LOADER] Injected yep_targetcore
+[     6.251] [PLUGIN_LOADER] Injected selector
+[     6.251] [PLUGIN_LOADER] Injected yep_instantcast
+[     6.251] [PLUGIN_LOADER] Injected yep_advancedswvar
+[     6.251] [PLUGIN_LOADER] Injected lb_equipvariables
+[     6.251] [PLUGIN_LOADER] Injected rph draganddrop
+[     6.251] [PLUGIN_LOADER] Injected moreinfo
+[     6.251] [PLUGIN_LOADER] Injected rph_state_icons
+[     6.251] [PLUGIN_LOADER] Injected zzz_photoalbumextended
+[     6.251] [PLUGIN_LOADER] Injected funkypatcher
+[     6.251] [PLUGIN_LOADER] Injected dgt_passiveskills
+[     6.251] [PLUGIN_LOADER] Injected dgt_reveriefixes
+[     6.251] [PLUGIN_LOADER] Injected dgt_statespriteeffects
+[     6.251] [PLUGIN_LOADER] Injected dgt_saveloadplusplus
+[     6.251] [PLUGIN_LOADER] Injected reverietiledfixer
+[     6.251] [PLUGIN_LOADER] Injected reverie_metropuzzle
+[     6.251] [PLUGIN_LOADER] Injected surrealegg_eventmover
+[     6.251] [PLUGIN_LOADER] Injected reverie_fallingstar
+[     6.251] [PLUGIN_LOADER] Injected reverie_ailmentbox
+[     6.251] [PLUGIN_LOADER] Injected tiledfixer
+[     6.251] [PLUGIN_LOADER] Injected game_enemy_offset_z
+[     6.252] [PLUGIN_LOADER] Injected reverie_ailments
+[     6.252] [PLUGIN_LOADER] Injected stahl_charmquantity
+[     6.252] [PLUGIN_LOADER] Injected stahl_coloreditems
+[     6.252] [PLUGIN_LOADER] Injected stahl_emotionfunctions
+[     6.252] [PLUGIN_LOADER] Injected stahl_altitemicon
+[     6.252] [PLUGIN_LOADER] Injected stahl_enemyspawn
+[     6.252] [PLUGIN_LOADER] Injected stahl_deathce
+[     6.252] [PLUGIN_LOADER] Injected stahl_statedependency
+[     6.252] [PLUGIN_LOADER] Injected dgt_targeteval
+[     6.252] [PLUGIN_LOADER] Injected compatibilitysave&load
+[     6.252] [PLUGIN_LOADER] Injected reveriebestiary
+[     6.252] [PLUGIN_LOADER] Injected stahl_battlestats
+[     6.252] [PLUGIN_LOADER] Injected stahl_hpcosticon
+[     6.252] [PLUGIN_LOADER] Injected stahl_damagepopups
+[     6.252] [PLUGIN_LOADER] Injected rev_badges
+[    27.063] Trying to decode URI component
+[    27.064] Decoded URI component for sys_you died_2.rpgmvo
+[    46.479] Trying to decode URI component
+[    46.479] Decoded URI component for qte smash background.rpgmvp
+[    46.479] Trying to decode URI component
+[    46.479] Decoded URI component for qte arrow.rpgmvp
+[   126.466] Trying to decode URI component
+[   126.467] Decoded URI component for [se]swish.rpgmvo
+[   232.534] Trying to decode URI component
+[   232.534] Decoded URI component for [ba]stat_down.rpgmvo
+[   268.251] Trying to decode URI component
+[   268.251] Decoded URI component for release_stress[5x5].rpgmvp

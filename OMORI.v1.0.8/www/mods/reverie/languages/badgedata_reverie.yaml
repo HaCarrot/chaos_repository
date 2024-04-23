@@ -1,0 +1,61 @@
+# badge format is pretty straight forward
+# if you need a second line in your badge description use \n
+#
+# (badge_id):
+#   name: name of badge
+#   description: the text to be displayed below the name
+#   img: the image to be shown when the badge is unlocked (must be in img/system)
+#   locked_img: the image to be shown when the badge is locked (must be in img/system) (optional)
+#   locked_desc: the description to be shown when the badge is locked ('???' by default) (optional)
+#
+# you may also include metadata like so, although all metadata fields are optional
+# 
+# meta: (optional)
+#   name: the name to be shown (will be an uppercased mod id by default) (optional)
+#   color: the color of the mod name displayed ("#FFFFFF" by default) (optional)
+#   badge_toast_border: the image in img/system to be used for badge notifications, should be 180 by 94 (must be in img/system) (optional)
+#   badge_toast_corner: the corner where the notification will appear. either top-left, top-right, bottom-left, or bottom-right (top-right by default) (optional)
+
+meta:
+  name: "REVERIE"
+  color: "#FF0000"
+  badge_toast_border: 'badge_toast_border_reverie'
+  badge_toast_corner: top-right
+  badge_toast_image_offset_x: 113
+  badge_toast_image_offset_y: 14
+
+gold:
+  name: Edible Gold
+  description: Defeat the GOLDEN MOLE.
+  img: 'badge_gold'
+  locked_desc: Find and defeat a rare SPROUT MOLE.
+ljg:
+  name: Wrong Ingredient
+  description: Defeat LIFE JAM GUY.
+  img: 'badge_ljg'
+  locked_desc: Get into a jam and settle a hostage\nsituation.
+tvg:
+  name: Caffeine Dependence
+  description: Defeat TV GIRL.
+  img: 'badge_tvg'
+  locked_desc: Was that giant hole in the wall always\nthere?
+moony:
+  name: Unhealthy Obsession
+  description: Defeat SPACE FANGIRL.
+  img: 'badge_moony'
+  locked_desc: Meet SPACEBOY's biggest fan.
+px:
+  name: The Tenth Planet
+  description: Defeat PLANET X and learn LASTING MEMORY.
+  img: 'badge_px'
+  locked_desc: Teach an intergalactic megalomaniac a lesson\nin the honor of a samurai.
+super1:
+  name: Heights, Overcame
+  description: Defeat KITE KID.
+  img: 'badge_super1'
+  locked_desc: The wind is howling...
+cannibal:
+  name: Just Wrong
+  description: Give SWEETHEART a DONUT.\nYou monster.
+  img: 'badge_cannibal'
+  locked_desc: Indulge in the act of cannibalism.\nPastry cannibalism.

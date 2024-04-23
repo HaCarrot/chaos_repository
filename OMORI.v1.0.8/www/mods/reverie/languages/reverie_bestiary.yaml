@@ -1,0 +1,532 @@
+
+# =========================================================================================
+# Bestiary
+# =========================================================================================
+EmptyEnemyName: 'FOE FACTS!'
+Information:
+
+  1508:
+    name: CONDUCTOR BUNNY
+    background: {name: 'battleback_rv_platform', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'RV_ENEMIES_1', index: 0}
+    listIndex: 0
+
+    text: |
+        A bunny that has found 
+        itself a new job in the metro. 
+        It lacks any intelligence to 
+        comprehend basic concepts, let 
+        alone operate a train. 
+
+        Despite that, it is able to somehow 
+        call a train when it whistles.
+
+        - YOU
+
+        The small hat on it is cute though...
+
+        - DOUGHIE
+
+  1512:
+    name: CONEHEAD MOLE
+    background: {name: 'battleback_rv_platform', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'RV_SPRM_1', index: 0}
+    listIndex: 1
+
+    text: |
+        A sprout mole that has found 
+        usage for the cones laid 
+        around in the metro.
+
+        An ironic name for such a 
+        creature that claims it is smart.
+
+        - YOU
+
+  19:
+    name: FOREST BUNNY
+    background: {name: 'battleback_rv_platform', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'ENEMY_BUNNIES', index: 0}
+    listIndex: 2
+
+    text: |
+        A bunny from the vast forest. 
+        Lacks any capacity to 
+        comprehend the situation it 
+        has found itself in.
+
+        - YOU
+
+  27:
+    name: LOST SPROUT MOLE
+    background: {name: 'battleback_rv_platform', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_SPRM_1', index: 0}
+    listIndex: 3
+
+    text: |
+        A sprout mole that is now 
+        even more lost than ever before.
+
+        - YOU
+
+  # 23:
+  #   name: FOREST BUNNY?
+  #   background: {name: 'battleback_rv_platform', x: 0, y: 0}
+  #   position: {x: 160, y: 425}
+  #   character: {name: 'ENEMY_BUNNIES', index: 0}
+  #   listIndex: 4
+
+  #   text: |
+  #       Cute and fluffy creatures
+  #       that may or may not attack
+  #       people without warning...
+
+  #       - YOU
+
+
+  #       I think it would probably make
+  #       for a cute pet!
+
+  #       - AUBREY
+
+  1516:
+    name: METRO RAT
+    background: {name: 'battleback_rv_platform', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'RV_ENEMIES_2', index: 0}
+    listIndex: 5
+
+    text: |
+        A rat that has been fired 
+        from its job at the laboratory. 
+
+        It dwells in the metro scavenging 
+        the scraps and fawning about its 
+        long lost dream.
+
+        - YOU
+
+  1520:
+    name: SCARRED RAT
+    background: {name: 'battleback_rv_platform', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'RV_ENEMIES_2', index: 1}
+    listIndex: 6
+
+    text: |
+        A vicious rat that has gone 
+        through unspoken tribulations.
+
+        Its battle scars are attained 
+        from living in such harsh 
+        environments.
+
+        - YOU
+
+  1502:
+    name: GREAT GATE
+    background: {name: 'battleback_rv_platform', x: 0, y: 0}
+    position: {x: 160, y: 475}
+    character: {name: '$rev_bigdoor', index: 0}
+    listIndex: 7
+
+    text: |
+        The greatest obstacle, 
+        the symbol of impediment 
+        upon progress.
+
+        - YOU
+
+
+        Ohoo...
+
+        - DOUGHIE
+
+  1528:
+    name: RARE BEAR
+    background: {name: 'battleback_rv_platform', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_EN_5', index: 0}
+    listIndex: 8
+
+    text: |
+        A bear that is now perpetually 
+        angry from being in the unbearable 
+        condition of the metro.
+
+        - YOU
+
+
+        Unbearable.
+
+        - SPACEBOY
+
+  1532:
+    name: LIFE JAM GUY
+    background: {name: 'battleback_rv_platform', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: '$DW_LJG_REVERIE', index: 0}
+    listIndex: 9
+
+    text: |
+        The invincible salesman made from
+        the essence of life itself. 
+        Recently has been investing in a 
+        new product called "LIFE JUICE".
+
+        - YOU
+
+
+        I'm allergic to that stuff...
+
+        - DOUGHIE
+
+  1536:
+    name: TV GIRL
+    background: {name: 'battleback_rv_tvgirl', x: 0, y: 0}
+    position: {x: 160, y: 475}
+    character: {name: 'DW_NPC_3', index: 6}
+    listIndex: 10
+
+    text: |
+        A tired office worker that 
+        survives on COFFEE. 
+        Has an unhealthy obsession 
+        with violence.
+
+        - YOU
+
+  1524:
+    name: GOLDEN MOLE
+    background: {name: 'battleback_rv_fw', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'DW_SPRM_1', index: 0}
+    listIndex: 11
+
+    text: |
+        It is a SPROUT MOLE that is golden. 
+        Because it is golden, it becomes
+        arbitrarily stronger. 
+
+        - YOU
+
+
+        Gold is also put on food 
+        sometimes to make it fancier!
+
+        - DOUGHIE
+
+# METRO DONE
+
+  1552:
+    name: CATTAIL BUNNY
+    background: {name: 'battleback_rv_fw', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'RV_ENEMIES_1', index: 1}
+    listIndex: 12
+
+    text: |
+        A bunny that has adapted the 
+        ability to camouflage with 
+        its local environment. 
+
+        - YOU
+
+  1556:
+    name: CROCODILE CLIP
+    background: {name: 'battleback_rv_fw', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'RV_ENEMIES_2', index: 7}
+    listIndex: 13
+
+    text: |
+        A piece of angry electrical 
+        equipment. 
+        Not to be mistaken for 
+        an alligator clip.
+
+        - YOU
+
+  1560:
+    name: MOUSE
+    background: {name: 'battleback_rv_fw', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'RV_ENEMIES_2', index: 3}
+    listIndex: 14
+
+    text: |
+        A computer mouse. 
+        It's quick, nimble, and 
+        able to navigate in any area. 
+
+        Not to be confused with its 
+        biological counterpart.
+        
+        Possibly a distant relative of 
+        the METRO RAT.
+
+        - YOU
+
+  1564:
+    name: BROKEN TAPE
+    background: {name: 'battleback_rv_fw', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'RV_ENEMIES_4', index: 0}
+    listIndex: 15
+
+    text: |
+        A beaten up MIXTAPE.
+        It seems to have realized its 
+        imminent fall into obscurity. 
+        Its favorite genre is breakcore.
+
+        - YOU
+
+
+        I still love its aesthetic, though...
+
+        - SPACEBOY
+
+  1568:
+    name: TAPEWORM
+    background: {name: 'battleback_rv_fw', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'RV_ENEMIES_2', index: 2}
+    listIndex: 16
+
+    text: |
+        A parasitic creature that 
+        lives inside a mixtape. 
+
+        It takes a form similar to a 
+        tape, replacing the actual tape inside.
+
+        - YOU
+
+  1572:
+    name: FALLEN STAR
+    background: {name: 'battleback_rv_fw', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'RV_ENEMIES_3', index: 0}
+    listIndex: 17
+
+    text: |
+        A star that used to be 
+        a big celebrity. 
+
+        It has fallen from grace
+        since then.
+
+        - YOU
+
+  1576:
+    name: SHOOTING STAR 
+    background: {name: 'battleback_rv_fw', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'RV_ENEMIES_3', index: 0}
+    listIndex: 18
+
+    text: |
+        A star that stumbled upon 
+        a laser gun one day. 
+
+        Its personality was never 
+        the same after that.
+
+        - YOU
+
+  1580:
+    name: SPAM MAIL
+    background: {name: 'battleback_rv_fw', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'RV_ENEMIES_2', index: 4}
+    listIndex: 19
+
+    text: |
+        A letter desperate for attention 
+        as it knows that it is unoriginal 
+        and annoying. 
+
+        Resorted to duplicating itself just 
+        to have more chances for someone 
+        to notice it.
+
+        - YOU
+
+  1584:
+    name: ADWARE
+    background: {name: 'battleback_rv_fw', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'RV_ENEMIES_2', index: 5}
+    listIndex: 20
+
+    text: |
+        A scam taking advantage of 
+        SWEETHEART's looks and charm.
+        Best not to focus on it.	
+
+        - YOU
+
+
+        That smug aura is a disgrace 
+        towards me!
+
+        - SWEETHEART
+
+  1588:
+    name: ZIP BOMB
+    background: {name: 'battleback_rv_fw', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'RV_ENEMIES_2', index: 6}
+    listIndex: 21
+
+    text: |
+        A malicious file designed to 
+        crash or render a software useless. 
+        This one is designed like a time 
+        bomb for aesthetic reasons. 
+
+        Beware, its timer will speed up when 
+        it's ANGRY, due to its short fuse.
+
+        - YOU
+  1592:
+    name: TROJAN HORSE
+    background: {name: 'battleback_rv_fw', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: '$RV_ENEMIES_TROJAN', index: 0}
+    listIndex: 22
+
+    text: |
+        A construct that is designed to 
+        deceive, containing many malicious 
+        foes.
+        Only a fool would fall for
+        its obvious disguise.
+
+        - YOU
+        
+  1616:
+    name: DOOMBOX
+    background: {name: 'battleback_rv_fw', x: 0, y: 0}
+    position: {x: 160, y: 300}
+    character: {name: 'DW_EN_7', index: 1}
+    listIndex: 23
+
+    text: |
+        The revived spirit of a BOOM
+        BOX, made angry by the
+        desecration of its burial site.
+
+        - YOU
+
+        Curses, so that's what ate my
+        mixtape!
+
+        - SPACEBOY
+
+  1620:
+    name: DIAL-UP
+    background: {name: 'battleback_rv_fw', x: 0, y: 0}
+    position: {x: 160, y: 350}
+    character: {name: 'DW_EN_1', index: 0}
+    listIndex: 24
+
+    text: |
+        A relic of the past, once 
+        used to access forgotten 
+        communication networks.
+        
+        - YOU
+        
+        I wonder if that's why my 
+        communicator line is always 
+        busy!
+        
+        - SPACEBOY
+
+  1624:
+    name: SHARK PLANE
+    background: {name: 'battleback_rv_fw', x: 0, y: 0}
+    position: {x: 200, y: 300}
+    character: {name: 'DW_EN_9', index: 0}
+    listIndex: 25
+
+    text: |
+        A terrifying aerial predator
+        which picks off defenseless 
+        victims. Best to hide in a crater 
+        if it swoops at you.
+
+        - YOU
+
+  1596:
+    name: SPACE FANGIRL
+    background: {name: 'battleback_ow_xsbf', x: 0, y: 0}
+    position: {x: 160, y: 475}
+    character: {name: 'RV_SIG_ENEMIES', index: 0}
+    listIndex: 26
+
+    text: |
+        SPACEBOY's biggest fan...
+        or so she proclaims.
+
+        - YOU
+
+        Who would've thought someone like
+        you would have fans as well, hm?
+
+        - SWEETHEART
+
+        Don't look at me like that!
+
+        - SPACEBOY
+
+  1600:
+    name: PLANET X
+    background: {name: 'battleback_rv_px', x: 0, y: 0}
+    position: {x: 160, y: 425}
+    character: {name: 'RV_PX', index: 0}
+    listIndex: 27
+
+    text: |
+        A shunned, outcast planet.
+        Obnoxious, immature, and ignorant.
+
+        - YOU
+
+  1608:
+    name: KITE KID
+    background: {name: 'battleback_vf_kitekid', x: 0, y: 0}
+    position: {x: 160, y: 475}
+    character: {name: '$sprite_vf_kite_kid', index: 0}
+    listIndex: 28
+
+    text: |
+        A mysterious boy obsessed 
+        with wind conditions. 
+
+        He is usually seen in the 
+        FLOATING FOREST flying his 
+        kite and mumbling something 
+        about the weather.
+
+        - YOU
+
+  1612:
+    name: KID'S KITE
+    background: {name: 'battleback_vf_kitekid', x: 0, y: 0}
+    position: {x: 160, y: 476}
+    character: {name: '$npc_kite', index: 0}
+    listIndex: 29
+
+    text: |
+        A strange kite. 
+        It seems to possess a life 
+        of its own.
+
+        - YOU

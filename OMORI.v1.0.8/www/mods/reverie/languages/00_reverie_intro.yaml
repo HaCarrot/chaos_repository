@@ -1,0 +1,46 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+diff_select-msg:
+    text: Please select a difficulty.
+
+diff_select-0:
+    text: NORMAL
+
+diff_select-1:
+    text: HARD
+
+diff_select-2: #REVERIE SECRET MODE?????????? REAL????
+    text: MERCILESS
+    
+#===== INTRO =====
+# nothing here
+msg_block:
+    text: There is nothing left here.
+    
+msg_key:
+    text: You already have the key.
+    
+msg_door:
+    text: You locked the door.
+    
+msg_door2:
+    text: ...\! You slid the key under the doormat.
+
+msg_jump:
+    text: Do you want to jump?
+
+msg_album-1:
+    text: .\..\..
+
+msg_album-2:
+    text: \"Here.\! Take my \c[4]PHOTO ALBUM\c[0]...\! I want you to have it."\
+
+msg_album-3:
+    text: \"I'm trusting you with it, okay?\! I just think... you can probably use it more than me."\
+
+msg_album-4:
+    text: You got a \c[13]PHOTO ALBUM\c[0].
+
+msg_no_album:
+    text: You feel like you are forgetting something...

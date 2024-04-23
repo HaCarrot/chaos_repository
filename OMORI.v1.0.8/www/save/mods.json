@@ -1,0 +1,12 @@
+{
+  "oneloader": true,
+  "_conflictResolutions": {},
+  "_deltaPreference": {},
+  "_autoUpdater": {
+    "check": "allow",
+    "askedYet": true,
+    "lastCheck": 1711902987492,
+    "lastCheckVersion": "1.4"
+  },
+  "reverie": true
+}

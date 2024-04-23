@@ -1,0 +1,14 @@
+{ "columns":18,
+ "image":"ThePlan.png",
+ "imageheight":600,
+ "imagewidth":577,
+ "margin":0,
+ "name":"ThePlan",
+ "spacing":0,
+ "tilecount":324,
+ "tiledversion":"1.8.4",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

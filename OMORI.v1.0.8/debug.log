@@ -1,0 +1,2 @@
+[0728/142522.071:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name metrics_client_id, discarding value 611255bd4b924fcdb9e2d07e54a846da
+[0728/142522.101:ERROR:http_transport_win.cc(175)] WinHttpCrackUrl: The URL does not use a recognized protocol (0x2ee6)

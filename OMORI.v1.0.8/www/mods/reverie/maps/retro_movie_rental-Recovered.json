@@ -1,0 +1,14 @@
+{ "columns":5,
+ "image":"retro_movie_rental-Recovered.png",
+ "imageheight":112,
+ "imagewidth":176,
+ "margin":0,
+ "name":"retro_movie_rental-Recovered",
+ "spacing":0,
+ "tilecount":15,
+ "tiledversion":"1.8.4",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

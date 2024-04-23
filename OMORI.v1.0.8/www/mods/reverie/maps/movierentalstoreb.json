@@ -1,0 +1,14 @@
+{ "columns":5,
+ "image":"movierentalstoreb.png",
+ "imageheight":128,
+ "imagewidth":177,
+ "margin":0,
+ "name":"movierentalstoreb",
+ "spacing":0,
+ "tilecount":20,
+ "tiledversion":"1.8.4",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

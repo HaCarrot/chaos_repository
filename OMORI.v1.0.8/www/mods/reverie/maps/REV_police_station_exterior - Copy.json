@@ -1,0 +1,14 @@
+{ "columns":7,
+ "image":"REV_police_station_exterior.png",
+ "imageheight":208,
+ "imagewidth":224,
+ "margin":0,
+ "name":"REV_police_station_exterior",
+ "spacing":0,
+ "tilecount":42,
+ "tiledversion":"1.8.4",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

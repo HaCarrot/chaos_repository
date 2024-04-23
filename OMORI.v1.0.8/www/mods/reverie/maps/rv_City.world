@@ -1,0 +1,69 @@
+{
+    "maps": [
+        {
+            "fileName": "map563.json",
+            "height": 544,
+            "width": 1184,
+            "x": 3680,
+            "y": 2368
+        },
+        {
+            "fileName": "map564.json",
+            "height": 960,
+            "width": 1920,
+            "x": 3104,
+            "y": 2912
+        },
+        {
+            "fileName": "map561.json",
+            "height": 1152,
+            "width": 2304,
+            "x": 7328,
+            "y": 1760
+        },
+        {
+            "fileName": "map562.json",
+            "height": 1152,
+            "width": 2304,
+            "x": 7328,
+            "y": 608
+        },
+        {
+            "fileName": "map565.json",
+            "height": 1152,
+            "width": 2304,
+            "x": 5024,
+            "y": 608
+        },
+        {
+            "fileName": "MallSecondFloor.json",
+            "height": 544,
+            "width": 1184,
+            "x": 3680,
+            "y": 1824
+        },
+        {
+            "fileName": "FC_Park.json",
+            "height": 0,
+            "width": 0,
+            "x": 5184,
+            "y": 1760
+        },
+        {
+            "fileName": "rv_park.json",
+            "height": 2304,
+            "width": 2304,
+            "x": 5024,
+            "y": 1760
+        },
+        {
+            "fileName": "cityBlockNoBuildings.json",
+            "height": 1152,
+            "width": 2304,
+            "x": 7328,
+            "y": 2912
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}

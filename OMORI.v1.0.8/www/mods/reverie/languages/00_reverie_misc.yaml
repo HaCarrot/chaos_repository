@@ -1,0 +1,109 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+# Tag Rejects
+tagreject_doughie:
+    text: This looks like a job for DOUGHIE!
+
+tagreject_spaceboy:
+    text: This looks like a job for SPACEBOY!
+
+tagreject_sweetheart:
+    text: This looks like a job for SWEETHEART!
+
+tagreject_rvplayer:
+    text: This looks like a job for \n[17]!
+
+# GENERAL CHOICES
+choice_nevermind:
+    text: NEVERMIND
+
+# ELEVATOR
+
+elevator_prompt:
+    text: Where do you want to go?
+
+elevator_F1:
+    text: F1
+
+elevator_B1:
+    text: B1
+
+elevator_B2:
+    text: B2
+
+elevator_B3:
+    text: B3
+
+elevator_broken:
+    text: The button is broken.
+
+elevator_same:
+    text: You're already on the same floor.
+# Misc
+msg_strongfoe:
+    faceset: MainCharacters_ReverieDreamworld
+    faceindex: 0
+    text: \n<DOUGHIE>This foe seems strong...\. Are you sure you're ready?
+    
+# Cutscene PX for Sheet
+
+message_5:
+    text: \n<SWEETHEART>...
+
+message_6:
+    text: \n<DOUGHIE>...
+
+message_7:
+    text: \n<SPACEBOY>...
+
+message_8:
+    text: This looks like a job for \n[17]!
+
+message_9:
+    text:
+
+message_10:
+    text:
+
+message_DG_TAG:
+      faceset: MainCharacters_ReverieDreamWorld
+      faceindex: 1
+      text: \n<DOUGHIE>Okay, here goes!
+
+# Skill Learns
+
+message_s1:
+    text: DOUGHIE learned \c[1]BIS-QUICK\c[0]!
+
+message_s2:
+    text: SPACEBOY learned \c[1]TENACITY\c[0]!
+
+message_s3:
+    text: DOUGHIE learned \c[1]WHITE BREAD\c[0]!
+
+message_s3-1:
+    faceset: MainCharacters_ReverieDreamworld
+    faceindex: 4
+    text: \n<DOUGHIE>That was an encounter...\. We'll have to be a bit more prepared for such attacks.
+
+# MARI encounter Skills
+
+message_ms1-1:
+    text: The sight of a loving smile hidden in the rain made you remember something familiar,\. like an old dream.
+
+message_ms1-2:
+    text: \n[17] remembered how to \c[1]CALM DOWN\c[0].
+
+# OVEN
+message_oven:
+    text: Will you use the \c[4]OVEN\c[0]?
+
+#===== MAIL SHOP =====
+#IF SPACEBOY IS leader
+message_mail_sb:
+    text: \maiAh, if it isn't SPACEBOY, my favorite and \sinv[1]second\sinv[0] most handsome customer! Discounts for you, always! So... please buy something! \}\sinv[1]Kekeke...
+    
+message_foefacts:
+      text: BISCUIT gave you the \c[4]FOE FACTS!\c[0] journal.

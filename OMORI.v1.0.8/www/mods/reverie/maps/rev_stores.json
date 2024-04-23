@@ -1,0 +1,14 @@
+{ "columns":31,
+ "image":"..\/img\/tilesets\/rev_stores.png",
+ "imageheight":96,
+ "imagewidth":1008,
+ "margin":0,
+ "name":"rev_stores",
+ "spacing":0,
+ "tilecount":93,
+ "tiledversion":"1.8.4",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}

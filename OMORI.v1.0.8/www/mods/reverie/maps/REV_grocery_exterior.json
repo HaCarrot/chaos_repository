@@ -1,0 +1,14 @@
+{ "columns":17,
+ "image":"..\/img\/tilesets\/REV_grocery_exterior.png",
+ "imageheight":128,
+ "imagewidth":555,
+ "margin":0,
+ "name":"REV_grocery_exterior",
+ "spacing":0,
+ "tilecount":68,
+ "tiledversion":"1.8.4",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}
